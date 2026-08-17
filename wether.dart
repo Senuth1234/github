@@ -9,8 +9,9 @@ void main(){
   print("It's a cloudy day.");
  } else if(wether == "snowy"){
   print("It's snowing outside.");
- } else (wether == "windy"){
+ } else if(wether == "windy"){
   print("It's windy outside.");
 
 
+}
 }
